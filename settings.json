@@ -7,7 +7,7 @@
     
   "server": {
     "ip":"DirtLife.aternos.me",
-    "port":54640,
+    "port":"54640",
     "version": "",
     "try-creative": false
   },
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
