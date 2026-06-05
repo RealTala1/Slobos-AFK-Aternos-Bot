@@ -1,10 +1,10 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "RealBot",
     "password": "",
-    "type": "offline"
-  },
+    "type": "online"
+    
   "server": {
     "ip":"DirtLife.aternos.me",
     "port":54640,
