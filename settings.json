@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DirtLife.aternos.me",
+    "ip":"DirtLife.aternos.me",
     "port":54640,
     "version": "",
     "try-creative": false
